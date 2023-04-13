@@ -1,0 +1,32 @@
+.header {
+    position: relative;
+    z-index: 1;
+    top: -5px;
+}
+
+body {
+    color: #666;
+}
+
+div {
+    display: block;
+}
+
+.header li {
+    margin-right: 15px;
+}
+
+.header ul {
+    list-style: none;
+    display: flex;
+    background: #fff;
+    border-radius: 26px;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+}
+
+nav {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
