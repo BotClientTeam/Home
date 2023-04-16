@@ -1,5 +1,5 @@
 <?php 
-	require_once __DIR__ . "/lib/Rest.php";
+	require_once __DIR__ . "../lib/Rest.php";
 
 	session_start();
 

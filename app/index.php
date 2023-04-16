@@ -18,14 +18,14 @@
 		<title>Discord BOT Client</title>
 
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-		<link rel="stylesheet" href="assetsss/main.css">
+		<link rel="stylesheet" href="css/main.css">
 
-		<link rel="apple-touch-icon" sizes="180x180" href="assetsmg/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="assetsmg/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="assetsmg/favicon-16x16.png">
-		<link rel="manifest" href="assetsmg/site.webmanifest">
-		<link rel="mask-icon" href="assetsmg/safari-pinned-tab.svg" color="#5bbad5">
-		<link rel="shortcut icon" href="assetsmg/favicon.ico">
+		<link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+		<link rel="manifest" href="img/site.webmanifest">
+		<link rel="mask-icon" href="img/safari-pinned-tab.svg" color="#5bbad5">
+		<link rel="shortcut icon" href="img/favicon.ico">
 		<meta name="msapplication-TileColor" content="#da532c">
 		<meta name="msapplication-config" content="./assets/img/browserconfig.xml">
 		<meta name="theme-color" content="#ffffff">
