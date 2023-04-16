@@ -18,7 +18,7 @@
             "Content-Length: ".strlen($data)
         );
 
-        $options =array(
+        $options = array(
             'http' => array(
                 'method' => 'POST',
                 'header' => implode("\r\n", $header),
