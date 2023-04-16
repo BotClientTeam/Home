@@ -19,7 +19,7 @@
         );
 
         $options =array(
-            'http' =>array(
+            'http' => array(
                 'method' => 'POST',
                 'header' => implode("\r\n", $header),
                 'content' => $data
