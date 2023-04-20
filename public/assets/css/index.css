@@ -1,0 +1,39 @@
+header {
+    width: 60%;
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    display: none;
+}
+
+body {
+    color: #666;
+    background-image: url("../img/bg.png");
+    background-color: #26282D;
+}
+
+div {
+    display: block;
+}
+
+header li {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+    background: #fff;
+    border-radius: 26px;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: #666;
+}
